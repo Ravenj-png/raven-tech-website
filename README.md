@@ -1,3 +1,5 @@
+<p align="center">
+  <pre style="color: #00ff41; font-family: 'Courier New', monospace; background-color: #0a0a0a; padding: 20px; border-radius: 8px; border: 1px solid #00ff41; line-height: 1.4;">
 ====================================================================
    ____       _    _ _____ _   _   ____ ____    _    
   |  _ \     / \  | | ____| \ | | / ___/ ___|  / \   
@@ -11,6 +13,10 @@
  :: Core Status  : SECURED & DEPLOYED // PRODUCTION READY
  :: Founded      : 2026 // Kampala, Uganda
 ====================================================================
+  </pre>
+</p>
+
+<br>
 
 # 🦅 RSSA – RAVEN Software & Systems Architecture
 
@@ -59,6 +65,3 @@ This is the official website for **RSSA (RAVEN Software & Systems Architecture)*
 ### Deployment
 - **GitHub Pages** – Static hosting with HTTPS
 
----
-
-## 📁 Project Structure
