@@ -6,7 +6,7 @@ This is the official multi-page website for **RAVEN Tech Systems**. It showcases
 
 ## 🚀 Live Demo
 
-👉 **[View the Website](https://ravenj-png.github.io/raven-tech-website/index.html)** *(Replace with your actual link after deploying)*
+👉 **[View the Website](https://ravenj-png.github.io/raven-tech-website/index.html)**
 
 ## 📊 Project Stats
 
