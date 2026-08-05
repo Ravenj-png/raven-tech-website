@@ -1,12 +1,12 @@
-# 🦅 RAVEN Tech Systems – Portfolio Website
+# 🦅 RAVEN Tech Systems – Website
 
 **Enterprise Cloud Security & AI Systems Architecture**
 
-This is the official multi-page portfolio website for **RAVEN Tech Systems**. It showcases my work in full-stack development, zero-trust security, post-quantum cryptography, and AI-driven infrastructure.
+This is the official multi-page website for **RAVEN Tech Systems**. It showcases my work in full-stack development, zero-trust security, post-quantum cryptography, and AI-driven infrastructure.
 
 ## 🚀 Live Demo
 
-👉 **[View the Website](https://ravenj-png.github.io/raven-website/)** *(Replace with your actual link after deploying)*
+👉 **[View the Website](https://ravenj-png.github.io/raven-tech-website/index.html)** *(Replace with your actual link after deploying)*
 
 ## 📊 Project Stats
 
