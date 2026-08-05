@@ -1,8 +1,22 @@
-# 🦅 RAVEN Tech Systems – Enterprise Website
+====================================================================
+   ____       _    _ _____ _   _   ____ ____    _    
+  |  _ \     / \  | | ____| \ | | / ___/ ___|  / \   
+  | |_) |   / _ \ | |  _| |  \| | \___ \___ \ / _ \  
+  |  _ <   / ___ \| | |___| |\  |  ___) |__) / ___ \ 
+  |_| \_\ /_/   \_\_\_____|_| \_| |____/____/_/   \_\
+                                                     
+         [ SOFTWARE & SYSTEMS ARCHITECTURE ]
+====================================================================
+ :: Architecture : Zero-Trust / Post-Quantum / Microservices
+ :: Core Status  : SECURED & DEPLOYED // PRODUCTION READY
+ :: Founded      : 2026 // Kampala, Uganda
+====================================================================
 
-**Enterprise Cloud Security & AI Systems Architecture**
+# 🦅 RSSA – RAVEN Software & Systems Architecture
 
-This is the official single-page portfolio website for **RAVEN Tech Systems**. It showcases my work in full-stack development, zero-trust security, post-quantum cryptography, and AI-driven infrastructure.
+**Enterprise Software Architecture & Secure Systems Engineering**
+
+This is the official website for **RSSA (RAVEN Software & Systems Architecture)**. We design unbreakable software, zero-trust architectures, and AI-driven infrastructure for enterprises, fintech, and government systems.
 
 ---
 
@@ -28,10 +42,9 @@ This is the official single-page portfolio website for **RAVEN Tech Systems**. I
 - **Fully Responsive** – Works perfectly on mobile, tablet, and desktop.
 - **Dark Theme** – Premium, readable design for a security-focused brand.
 - **One-File Architecture** – Single `index.html` with embedded CSS and JavaScript.
-- **Flexible Pricing Model** – "Contact for Quote" on all services with a transparent pricing banner.
-- **Working Contact Form** – Opens email client with pre-filled message to `jovanraven9@gmail.com`.
-- **Integrated Portfolio Link** – Direct link to the full project showcase.
-- **Skills Section** – Comprehensive breakdown of technologies and competencies.
+- **Flexible Pricing Model** – "Contact for Quote" on all services.
+- **Working Contact Form** – Opens email client with pre-filled message.
+- **Comprehensive Skills Section** – Full tech stack breakdown.
 
 ---
 
@@ -41,7 +54,7 @@ This is the official single-page portfolio website for **RAVEN Tech Systems**. I
 - **HTML5** – Semantic structure
 - **CSS3** – Custom properties, Flexbox, Grid, animations
 - **Vanilla JavaScript** – Intersection Observer, smooth scrolling, form handling
-- **Google Fonts** – Inter & JetBrains Mono for modern typography
+- **Google Fonts** – Inter & JetBrains Mono
 
 ### Deployment
 - **GitHub Pages** – Static hosting with HTTPS
